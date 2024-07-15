@@ -1,0 +1,153 @@
+**************************************************
+            LOG DE EXECUÇÃO DO EAA103            
+**************************************************
+18:07:59 24/06/2024 •    O CODOPE utilizado é: 999.
+18:08:01 24/06/2024 •    Iniciando a execução da Query: 99900
+18:08:07 24/06/2024 •    A execução obteve sucesso
+18:08:07 24/06/2024 •    Iniciando a execução da Query: 99901
+18:08:08 24/06/2024 •    A execução obteve sucesso
+18:08:08 24/06/2024 •    Iniciando a execução da Query: 99902
+18:08:10 24/06/2024 •    A execução obteve sucesso
+18:08:10 24/06/2024 •    Iniciando a execução da Query: 99903
+18:08:11 24/06/2024 •    A execução obteve sucesso
+18:08:11 24/06/2024 •    Iniciando a execução da Query: 99904
+18:08:12 24/06/2024 •    A execução obteve sucesso
+18:08:12 24/06/2024 •    Iniciando a execução da Query: 99905
+18:08:13 24/06/2024 •    A execução obteve sucesso
+18:08:13 24/06/2024 •    Iniciando a execução da Query: 99906
+18:09:09 24/06/2024 •    A execução obteve sucesso
+18:09:09 24/06/2024 •    Iniciando a execução da Query: 99907
+18:09:11 24/06/2024 •    A execução obteve sucesso
+18:09:11 24/06/2024 •    Iniciando a execução da Query: 99908
+18:09:12 24/06/2024 •    A execução obteve sucesso
+18:09:12 24/06/2024 •    Iniciando a execução da Query: 99909
+18:09:12 24/06/2024 •    A execução obteve sucesso
+18:09:12 24/06/2024 •    Iniciando a execução da Query: 99910
+18:09:13 24/06/2024 •    A execução obteve sucesso
+18:09:13 24/06/2024 •    Iniciando a execução da Query: 99911
+18:09:14 24/06/2024 •    A execução obteve sucesso
+18:09:14 24/06/2024 •    Iniciando a execução da Query: 99912
+18:09:24 24/06/2024 •    A execução obteve sucesso
+18:09:24 24/06/2024 •    Iniciando a execução da Query: 99913
+18:09:31 24/06/2024 •    A execução obteve sucesso
+18:09:31 24/06/2024 •    Iniciando a execução da Query: 99914
+18:09:32 24/06/2024 •    A execução obteve sucesso
+18:09:32 24/06/2024 •    Iniciando a execução da Query: 99915
+18:09:40 24/06/2024 •    A execução obteve sucesso
+18:09:40 24/06/2024 •    Iniciando a execução da Query: 99916
+18:09:40 24/06/2024 •    A execução obteve sucesso
+18:09:40 24/06/2024 •    Iniciando a execução da Query: 99917
+18:09:41 24/06/2024 •    A execução obteve sucesso
+18:09:41 24/06/2024 •    Iniciando a execução da Query: 99918
+18:09:43 24/06/2024 •    A execução obteve sucesso
+18:09:43 24/06/2024 •    Iniciando a execução da Query: 99919
+18:09:43 24/06/2024 •    A execução obteve sucesso
+18:09:43 24/06/2024 •    Iniciando a execução da Query: 99920
+18:09:44 24/06/2024 •    A execução obteve sucesso
+18:09:44 24/06/2024 •    Iniciando a execução da Query: 99921
+18:09:45 24/06/2024 •    A execução obteve sucesso
+**************************************************
+            LOG DE EXECUÇÃO DO EAA103            
+**************************************************
+09:33:14 25/06/2024 •    O CODOPE utilizado é: 999.
+09:33:25 25/06/2024 •    Iniciando a execução da Query: 99900
+09:33:28 25/06/2024 •    A execução obteve sucesso
+09:33:28 25/06/2024 •    Iniciando a execução da Query: 99901
+09:33:29 25/06/2024 •    A execução obteve sucesso
+09:33:29 25/06/2024 •    Iniciando a execução da Query: 99902
+09:33:31 25/06/2024 •    A execução obteve sucesso
+09:33:31 25/06/2024 •    Iniciando a execução da Query: 99903
+09:33:32 25/06/2024 •    A execução obteve sucesso
+09:33:32 25/06/2024 •    Iniciando a execução da Query: 99904
+09:33:33 25/06/2024 •    A execução obteve sucesso
+09:33:33 25/06/2024 •    Iniciando a execução da Query: 99905
+09:33:34 25/06/2024 •    A execução obteve sucesso
+09:33:34 25/06/2024 •    Iniciando a execução da Query: 99906
+09:34:28 25/06/2024 •    A execução obteve sucesso
+09:34:28 25/06/2024 •    Iniciando a execução da Query: 99907
+09:34:31 25/06/2024 •    A execução obteve sucesso
+09:34:31 25/06/2024 •    Iniciando a execução da Query: 99908
+09:34:33 25/06/2024 •    A execução obteve sucesso
+09:34:33 25/06/2024 •    Iniciando a execução da Query: 99909
+09:34:34 25/06/2024 •    A execução obteve sucesso
+09:34:34 25/06/2024 •    Iniciando a execução da Query: 99910
+09:34:38 25/06/2024 •    A execução obteve sucesso
+09:34:38 25/06/2024 •    Iniciando a execução da Query: 99911
+09:34:39 25/06/2024 •    A execução obteve sucesso
+09:34:39 25/06/2024 •    Iniciando a execução da Query: 99912
+09:34:51 25/06/2024 •    A execução obteve sucesso
+09:34:51 25/06/2024 •    Iniciando a execução da Query: 99913
+09:35:04 25/06/2024 •    A execução obteve sucesso
+09:35:04 25/06/2024 •    Iniciando a execução da Query: 99914
+09:35:04 25/06/2024 •    A execução obteve sucesso
+09:35:04 25/06/2024 •    Iniciando a execução da Query: 99915
+09:35:15 25/06/2024 •    A execução obteve sucesso
+09:35:15 25/06/2024 •    Iniciando a execução da Query: 99916
+09:35:15 25/06/2024 •    A execução obteve sucesso
+09:35:16 25/06/2024 •    Iniciando a execução da Query: 99917
+09:35:17 25/06/2024 •    A execução obteve sucesso
+09:35:17 25/06/2024 •    Iniciando a execução da Query: 99918
+09:35:19 25/06/2024 •    A execução obteve sucesso
+09:35:19 25/06/2024 •    Iniciando a execução da Query: 99919
+09:35:19 25/06/2024 •    A execução obteve sucesso
+09:35:19 25/06/2024 •    Iniciando a execução da Query: 99920
+09:35:20 25/06/2024 •    A execução obteve sucesso
+09:35:20 25/06/2024 •    Iniciando a execução da Query: 99921
+09:35:21 25/06/2024 •    A execução obteve sucesso
+**************************************************
+            LOG DE EXECUÇÃO DO EAA103            
+**************************************************
+11:58:00 25/06/2024 •    O CODOPE utilizado é: 999.
+11:58:08 25/06/2024 •    Iniciando a execução da Query: 99900
+11:58:13 25/06/2024 •    A execução obteve sucesso
+11:58:13 25/06/2024 •    Iniciando a execução da Query: 99901
+11:58:15 25/06/2024 •    A execução obteve sucesso
+11:58:15 25/06/2024 •    Iniciando a execução da Query: 99902
+11:58:16 25/06/2024 •    A execução obteve sucesso
+11:58:16 25/06/2024 •    Iniciando a execução da Query: 99903
+11:58:16 25/06/2024 •    A execução obteve sucesso
+11:58:16 25/06/2024 •    Iniciando a execução da Query: 99904
+11:58:17 25/06/2024 •    A execução obteve sucesso
+11:58:17 25/06/2024 •    Iniciando a execução da Query: 99905
+11:58:18 25/06/2024 •    A execução obteve sucesso
+11:58:18 25/06/2024 •    Iniciando a execução da Query: 99906
+11:59:10 25/06/2024 •    A execução obteve sucesso
+11:59:10 25/06/2024 •    Iniciando a execução da Query: 99907
+11:59:12 25/06/2024 •    A execução obteve sucesso
+11:59:12 25/06/2024 •    Iniciando a execução da Query: 99908
+11:59:13 25/06/2024 •    A execução obteve sucesso
+11:59:13 25/06/2024 •    Iniciando a execução da Query: 99909
+11:59:14 25/06/2024 •    A execução obteve sucesso
+11:59:14 25/06/2024 •    Iniciando a execução da Query: 99910
+11:59:16 25/06/2024 •    A execução obteve sucesso
+11:59:16 25/06/2024 •    Iniciando a execução da Query: 99911
+11:59:16 25/06/2024 •    A execução obteve sucesso
+11:59:16 25/06/2024 •    Iniciando a execução da Query: 99912
+11:59:24 25/06/2024 •    A execução obteve sucesso
+11:59:24 25/06/2024 •    Iniciando a execução da Query: 99913
+11:59:30 25/06/2024 •    A execução obteve sucesso
+11:59:30 25/06/2024 •    Iniciando a execução da Query: 99914
+11:59:31 25/06/2024 •    A execução obteve sucesso
+11:59:31 25/06/2024 •    Iniciando a execução da Query: 99915
+11:59:38 25/06/2024 •    A execução obteve sucesso
+11:59:38 25/06/2024 •    Iniciando a execução da Query: 99916
+11:59:38 25/06/2024 •    A execução obteve sucesso
+11:59:38 25/06/2024 •    Iniciando a execução da Query: 99917
+11:59:39 25/06/2024 •    A execução obteve sucesso
+11:59:39 25/06/2024 •    Iniciando a execução da Query: 99918
+11:59:41 25/06/2024 •    A execução obteve sucesso
+11:59:41 25/06/2024 •    Iniciando a execução da Query: 99919
+11:59:41 25/06/2024 •    A execução obteve sucesso
+11:59:41 25/06/2024 •    Iniciando a execução da Query: 99920
+11:59:42 25/06/2024 •    A execução obteve sucesso
+11:59:42 25/06/2024 •    Iniciando a execução da Query: 99921
+11:59:43 25/06/2024 •    A execução obteve sucesso
+**************************************************
+            LOG DE EXECUÇÃO DO EAA103            
+**************************************************
+10:38:12 15/07/2024 •    O CODOPE utilizado é: 23.
+10:39:14 15/07/2024 •    Iniciando a execução da Query: 40211
+10:41:05 15/07/2024 •    A execução obteve sucesso
+10:41:10 15/07/2024 •    Iniciando a execução da Query: 40217
+10:44:29 15/07/2024 •    A execução obteve sucesso
+10:44:32 15/07/2024 •    Iniciando a execução da Query: 40221

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\01 - presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|solutionrelative:01 - presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|c:\\users\\asa_0\\onedrive\\\u00E1rea de trabalho\\eaa103\\03 - infrastructure\\dto\\queryirecollectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|solutionrelative:03 - infrastructure\\dto\\queryirecollectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|c:\\users\\asa_0\\onedrive\\\u00E1rea de trabalho\\eaa103\\02 - domain\\core\\services\\iservicedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|solutionrelative:02 - domain\\core\\services\\iservicedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EAA103||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|c:\\users\\asa_0\\onedrive\\\u00E1rea de trabalho\\eaa103\\02 - domain\\core\\repositories\\irepositoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|solutionrelative:02 - domain\\core\\repositories\\irepositoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - domain\\core\\services\\iservicesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|solutionrelative:02 - domain\\core\\services\\iservicesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - domain\\core\\services\\iservicelogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|solutionrelative:02 - domain\\core\\services\\iservicelogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000F78DB-8A91-4D69-BB01-ABC15061C70C}|EAA103.csproj|c:\\users\\asa_0\\onedrive\\\u00E1rea de trabalho\\eaa103\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryIRecollectionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\03 - Infrastructure\\DTO\\QueryIRecollectionDTO.cs",
+              "RelativeDocumentMoniker": "03 - Infrastructure\\DTO\\QueryIRecollectionDTO.cs",
+              "ToolTip": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\03 - Infrastructure\\DTO\\QueryIRecollectionDTO.cs",
+              "RelativeToolTip": "03 - Infrastructure\\DTO\\QueryIRecollectionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:32:12.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServiceDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - Domain\\Core\\Services\\IServiceDatabase.cs",
+              "RelativeDocumentMoniker": "02 - Domain\\Core\\Services\\IServiceDatabase.cs",
+              "ToolTip": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - Domain\\Core\\Services\\IServiceDatabase.cs",
+              "RelativeToolTip": "02 - Domain\\Core\\Services\\IServiceDatabase.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwDYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:31:42.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServiceSql.cs",
+              "DocumentMoniker": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - Domain\\Core\\Services\\IServiceSql.cs",
+              "RelativeDocumentMoniker": "02 - Domain\\Core\\Services\\IServiceSql.cs",
+              "ToolTip": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - Domain\\Core\\Services\\IServiceSql.cs",
+              "RelativeToolTip": "02 - Domain\\Core\\Services\\IServiceSql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:11:51.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServiceLogging.cs",
+              "DocumentMoniker": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - Domain\\Core\\Services\\IServiceLogging.cs",
+              "RelativeDocumentMoniker": "02 - Domain\\Core\\Services\\IServiceLogging.cs",
+              "ToolTip": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - Domain\\Core\\Services\\IServiceLogging.cs",
+              "RelativeToolTip": "02 - Domain\\Core\\Services\\IServiceLogging.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:44:00.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EAA103",
+              "DocumentMoniker": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\EAA103.csproj",
+              "RelativeDocumentMoniker": "EAA103.csproj",
+              "ToolTip": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\EAA103.csproj",
+              "RelativeToolTip": "EAA103.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T13:01:08.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\01 - Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "01 - Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\01 - Presentation\\Program.cs",
+              "RelativeToolTip": "01 - Presentation\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwCcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:57:38.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - Domain\\Core\\Repositories\\IRepositoryQuery.cs",
+              "RelativeDocumentMoniker": "02 - Domain\\Core\\Repositories\\IRepositoryQuery.cs",
+              "ToolTip": "C:\\Users\\asa_0\\OneDrive\\\u00C1rea de Trabalho\\EAA103\\02 - Domain\\Core\\Repositories\\IRepositoryQuery.cs",
+              "RelativeToolTip": "02 - Domain\\Core\\Repositories\\IRepositoryQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:54:43.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
